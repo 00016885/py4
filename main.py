@@ -19,4 +19,3 @@ input_new = input("Enter a value:")
 encoded_message = encode(input_new)
 print("encoded message:")
 print(encoded_message)
-# //
